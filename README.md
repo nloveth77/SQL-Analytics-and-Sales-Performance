@@ -75,6 +75,10 @@ High-sales/low-profit transactions
 Above-average customers
 Above-average profit transactions
 Top-performing sales records
+
+
+
+
 Dataset Structure
 The analysis uses three main tables:
 
